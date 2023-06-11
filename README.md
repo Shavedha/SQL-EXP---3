@@ -1,4 +1,4 @@
-# SQL-EXP---3
+# SQL - EXPERIMENT 3 - To create an SQL query to show the top n records of the table using Limit method.
 ## AIM
 To create an SQL query to show the top n records of the table using Limit method.
 ## ALGORITHM
